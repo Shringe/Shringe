@@ -1,6 +1,1 @@
-- 👋 Hi, I’m Shringe
-
-<!---
-Shringe/Shringe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hello, I'm Shringe. I like programming and solving complex problems for fun. I also enjoy strategy games like chess.
